@@ -20,8 +20,7 @@
 ### Result
 
 - data format : HTML file
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1bc6633a-a66a-4349-85ab-f93f6fde9c72/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1bc6633a-a66a-4349-85ab-f93f6fde9c72/Untitled.png)
+![map](https://user-images.githubusercontent.com/59818703/94287454-49b28b00-ff91-11ea-8f61-f8924a008b4c.jpg)
 
 ## COVID-19 누적 데이터 그래프
 
@@ -40,4 +39,4 @@ preprocessing  → JSON data to DataFrame
 
 - data format : HTML file, Image (PNG,JPG..etc)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1db24505-8da6-4aed-b407-eec91a354036/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1db24505-8da6-4aed-b407-eec91a354036/Untitled.png)
+![graph](https://user-images.githubusercontent.com/59818703/94287495-5931d400-ff91-11ea-8ae4-1ecd4a681b02.jpg)
